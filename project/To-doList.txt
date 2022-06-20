@@ -1,0 +1,9 @@
+12-2-22:running 
+12-3-22:study 
+-study for 2 hour12-2-22:eat 
+-
+eat lunch,dinner12-2-22:run 
+-
+running12-2-22:study 
+:studying12-2-22:study 
+:studyng

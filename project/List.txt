@@ -1,0 +1,4 @@
+run:running from 5pm
+lunch:lunch at 2pm
+studing:study for 2 hours today 
+

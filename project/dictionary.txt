@@ -1,0 +1,13 @@
+happy:a emotion 
+text: a book or written,printed words. 
+work:activities involving physical or mental task 
+happy:emotion 
+happy:felling 
+sad:felling 
+
+
+
+
+
+
+
